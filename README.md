@@ -1,3 +1,9 @@
+Wonderfull Food Reciper app provided with https://www.edamam.com/ API.
+
+## Deployed on heroku
+link : https://recipe-app321.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
